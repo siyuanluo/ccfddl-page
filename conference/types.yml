@@ -1,0 +1,5 @@
+---
+- name: Graphics
+  sub: CG
+- name: Robotics
+  sub: AI

@@ -1,0 +1,136 @@
+- title: ICRA
+  description: IEEE International Conference on Robotics and Automation
+  sub: AI
+  rank: A
+  dblp: icra
+  confs:
+    - year: 2025
+      id: icra25
+      link: https://2025.ieee-icra.org/
+      timeline:
+        - deadline: '2024-09-15 23:59:59'
+      timezone: UTC-8
+      date: May 19- May 23, 2025
+      place: Atlanta, USA
+- title: ICML
+  description: International Conference on Machine Learning
+  sub: AI
+  rank: A
+  dblp: icml
+  confs:
+    - year: 2024
+      id: icml24
+      link: https://icml.cc/Conferences/2024
+      timeline:
+        - deadline: '2024-02-01 23:59:59'
+          comment: 'Paper Submissions Open on OpenReview Jan 09 2024 02:00 PM UTC'
+      timezone: UTC-12
+      date: July 21-27, 2024
+      place: Messe Wien Exhibition Congress Center, Vienna, Austria
+    - year: 2025
+      id: icml25
+      link: https://icml.cc/Conferences/2024
+      timeline:
+        - deadline: '2025-02-01 23:59:59'
+          comment: 'Paper Submissions Open on OpenReview Jan 09 2025 02:00 PM UTC'
+      timezone: UTC-12
+      date: July 21-27, 2025
+      place: Vancouver, BC, Canada
+- title: RSS
+  description: Robotics Science and Systems
+  sub: AI
+  rank: A
+  dblp: rss
+  confs:
+    - year: 2024
+      id: rss24
+      link: https://roboticsconference.org/
+      timeline:
+        - deadline: '2024-02-02 23:59:00'
+      timezone: AoE
+      date: July 15-19, 2024
+      place: Delft, Netherlands
+    - year: 2025
+      id: rss25
+      link: https://roboticsconference.org/
+      timeline:
+        - deadline: '2025-02-02 23:59:00'
+      timezone: AoE
+      date: July 15-19, 2025
+      place: Edinburgh, England
+- title: CVPR
+  description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  sub: AI
+  rank: A
+  dblp: cvpr
+  confs:
+    - year: 2025
+      id: cvpr25
+      link: https://www.thecvf.com/
+      timeline:
+          - abstract_deadline: '2024-11-02 23:59:59'
+            deadline: '2024-11-09 23:59:59'
+            comment: 'rebuttal deadline: 2025-01-18'
+      timezone: UTC-8
+      date: June 10-17, 2025
+      place: Nashville, Tennessee
+- title: ACM SIGGRAPH ASIA Technical Communication
+  description: ACM SIGGRAPH Annual Conference in Asia
+  sub: CG
+  rank: A
+  dblp: siggrapha
+  confs:
+    - year: 2024
+      id: siggrapha24
+      link: https://asia.siggraph.org/2024/
+      timeline:
+        - deadline: '2024-08-11 23:59:00'
+      timezone: UTC-12
+      date: December 12-15, 2024
+      place: Tokyo, Japan
+- title: SCA
+  description: ACM SIGGRAPH/EUROGRAPHICS Symposium on Computer Animation
+  sub: CG
+  rank: B
+  dblp: sca
+  confs:
+    - year: 2023
+      id: sca23
+      link: http://computeranimation.org/
+      timeline:
+        - deadline: '2023-04-12 23:59:59'
+      timezone: AoE
+      date: August 4-6, 2023
+      place: Los Angeles, CA, USA
+- title: Eurographics
+  description: Eurographics
+  sub: CG
+  rank: B
+  dblp: eurographics
+  confs:
+    - year: 2025
+      id: eg25
+      link: https://eg2024.cyens.org.cy/
+      timeline:
+        - abstract_deadline: '2024-09-28 23:59:59'
+          deadline: '2024-10-05 23:59:59'
+      timezone: UTC
+      date: April 22-26, 2025
+      place: London, UK
+- title: ACM SIGGRAPH
+  description: ACM SIGGRAPH Annual Conference
+  sub: CG
+  rank: A
+  dblp: siggraph
+  confs:
+    - year: 2025
+      id: siggraph25
+      link: https://blog.siggraph.org/2023/01/ginger-alford-to-bring-the-magic-as-siggraph-2025-conference-chair.html/
+      timeline:
+        - abstract_deadline: '2025-01-24 22:00:00'
+          deadline: '2025-01-25 22:00:00'
+          comment: 'rebuttal deadline: 2025-04-10'
+      timezone: UTC+0
+      date: August 6-10, 2023
+      place: Los Angeles
+
